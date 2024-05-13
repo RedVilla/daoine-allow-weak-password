@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Daoine - Simplify Registration
  * Plugin URI: https://redvilla.tech/apps/plugins/daoine-simplify-registration
- * Description: Daoine is a Lightweight WordPress and WooCommerce plugin that simplifies the sign-up process for onboarding new customers and users.
+ * Description: Daoine is a Lightweight WordPress and WooCommerce plugin that simplifies the sign-up process by allowing users to sign up using very weak or weak passwords.
  * Author: RedVilla Plugins
  * Author URI: https://redvilla.tech/creator/redvilla-plugins
  * Version: 1.0
