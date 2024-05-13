@@ -1,4 +1,4 @@
-=== Hello Dolly ===
+=== Daoine ===
 Contributors: redvilla,daoine
 Stable tag: 1.0.0
 Tested up to: 6.4
