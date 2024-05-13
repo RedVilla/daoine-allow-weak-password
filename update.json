@@ -1,0 +1,11 @@
+{
+    "slug": "daoine-simplify-registration",
+    "name": "Daoine - Simplify Registration",
+    "version": "1.0.0",
+    "tested": "6.1.0",
+    "author": "RedVilla Plugins",
+    "requires": {
+        "php": "7.0"
+    },
+    "download_link": "https://github.com/redvilla/daoine-simplify-registration/archive/refs/heads/master.zip"
+}
